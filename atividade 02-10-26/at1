@@ -1,0 +1,5 @@
+nome = input("Digite seu nome: ")
+idade = int(input("Digite sua idade: "))
+print(f"Olá, {nome}! Você tem {idade} anos.")
+
+# Pega o seu nome e sua idade e mostra os dois
